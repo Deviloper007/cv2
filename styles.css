@@ -1,0 +1,173 @@
+body {
+  margin: 0;
+  font-family: arial, sans-serif;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+  color: #40514E;
+  font-weight: 6px;
+}
+
+a{
+  color:#11999e;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+
+a:hover{
+  color:#eaf6f6;
+}
+
+p {
+  line-height: 2;
+}
+
+h1 {
+  font-size: 562.5%;
+  margin: 50px auto 0px auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+hr {
+  border-width: 7px;
+  border-color: lightgrey;
+  border-style: none;
+  height: 0px;
+  border-style: dotted none none none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+/*******************************CLASS STARTS*****************************************/
+
+.top-container {
+  background: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0px;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 50px 0px 20px;
+
+}
+
+
+
+.pro {
+  text-decoration: underline;
+}
+
+.a-programmer {
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+
+
+
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 250px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+
+
+.footer-link {
+  color: #11999E;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.games {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.internet {
+  width: 25%;
+  float: right;
+  padding: 0 30px 0 30px;
+}
+
+.second-page-text {
+  color: #40514e;
+  width: 25%;
+  margin: auto;
+}
+
+.contact-msg{
+  width: 40%;
+  margin:35px auto 50px;
+}
+
+
+  .btn {
+
+    font-family: 'Montserrat', sans-serif;
+
+    text-decoration: none;
+
+    font-size: 20px;
+
+    text-align: center;
+
+    vertical-align: middle;
+
+    cursor: pointer;
+
+    border-radius: 8px;
+
+    background: linear-gradient(#66BFBF, #11999E);
+
+    color: #ffffff;
+
+    padding: 10px 20px 10px 20px;
+
+  }
+
+
+
+  .btn:hover {
+
+    background: linear-gradient(#30e3cb,#2bc4ad)
+
+  }
+}
+.copyright{
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0px;
+}
